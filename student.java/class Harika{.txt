@@ -1,0 +1,11 @@
+class Harika{
+	public static void main(String []args){
+String name="Harika";
+int rollNumber = 101;
+String course = "Java";
+System.out.println("Student Details");
+System.out.println("name"+ name);
+System.out.println("rollNumber"+ rollNumber);
+System.out.println("course"+ course);
+}
+}

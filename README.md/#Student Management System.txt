@@ -1,0 +1,8 @@
+#Student Management System
+This is my first Git and GitHub project
+ ## Technologies Used
+-Java
+-Git
+-GitHub
+## Project Description
+This Project displays student details
