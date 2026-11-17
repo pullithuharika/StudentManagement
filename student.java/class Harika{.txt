@@ -3,9 +3,11 @@ class Harika{
 String name="Harika";
 int rollNumber = 101;
 String course = "Java";
+String emailid="pullithuharika21@gmail.com";
 System.out.println("Student Details");
 System.out.println("name"+ name);
 System.out.println("rollNumber"+ rollNumber);
 System.out.println("course"+ course);
+System.out.println("emailid"+ emailid);
 }
 }
